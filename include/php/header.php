@@ -23,7 +23,7 @@ $header =
             <link href="include/css/qsub.css" rel="stylesheet" media="screen">
 
               
-            <script src="http://code.jquery.com/jquery.js"></script>
+            <script src="https://code.jquery.com/jquery.js"></script>
             <script src="include/js/bootstrap.min.js"></script>
             <script src="include/js/select2-3.4.4/select2.js"></script>
             <script src="include/js/qsub.js"></script>
